@@ -26,6 +26,7 @@ public class BinarySearch {
     public static void main(String[] args) {
         int[] myList = {1, 3, 5, 7, 9};
 
+        // test
         System.out.println(binarySearch(myList, 3)); // 1
         System.out.println(binarySearch(myList, -1)); // null
     }
